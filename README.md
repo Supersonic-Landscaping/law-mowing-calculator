@@ -1,12 +1,7 @@
-Absolutely! Let’s polish everything up so it feels professional, clean, and ready to share with the world 🌎.
-
-Here’s a **high-quality README** followed by the updated **JavaScript** code you asked for — now properly using `data-labor-price` (instead of just `data-hourly-rate`) just like your mulch tool.
-
----
 
 # 📄 Lawn Mowing Service Calculator – Supersonic Landscaping
 
-This **Lawn Mowing Service Calculator** is a lightweight, embeddable tool built to help landscaping businesses offer their visitors a quick, estimated cost for lawn mowing services. 
+This **Lawn Mowing Service Calculator** by [Supersonic Landscaping](https://www.supersoniclandscaping.com) is a lightweight, embeddable tool built to help landscaping businesses offer their visitors a quick, estimated cost for lawn mowing services. 
 
 It allows users to input their lawn size and select the terrain type. The calculator dynamically adjusts the estimated mowing time and labor cost based on the difficulty of the terrain.
 
