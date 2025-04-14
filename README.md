@@ -46,4 +46,4 @@ Designed for **easy embedding** into any landscaping service page, it includes *
 - `data-title` (optional): Custom title for the calculator.
 - `data-labor-price` (optional): Custom hourly labor price (default is `$65` if not provided).
 
-3. **That's it!** The widget initializes automatically when the page loads.
+3. **That's it!** The widget initializes automatically when the page loads!
