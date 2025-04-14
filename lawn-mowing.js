@@ -24,7 +24,7 @@
   
             <h3>${titleText}</h3>
             <p class="lmc-estimate-note" style="font-style: italic; font-size: 0.9em; color: #555; text-align: left; margin-bottom: 18px;">
-              This is an estimated quote; final pricing may vary based on project specifics.<br><strong>Contact us for a final quote.</strong>
+              This is an estimated quote; final pricing may vary based on project specifics.<br> <strong>Contact us for a final quote.</strong>
             </p>
             <div class="lmc-field">
               <label>Total Area (sq ft):</label>
